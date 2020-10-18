@@ -1,4 +1,8 @@
-# IPL First Innings Score Prediction - Deployment
+# IPL Score Prediction - Deployment in Heroku
+This project is predicts the scores of the first innings of the IPL match.
+Data set consist of 8 year of recoderded data for the every match. 
+The regression model is estimated with linear regression, ridge regression, lasso regression. For further enhancement to the model can be done with the XG Boost.
+
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
 • This project is done for the learning purpose
@@ -19,5 +23,3 @@ Link: _https://github.com/lambertrego/score_predictor/_
 
 
 
-• Special thanks to Anuj Vyas
-https://github.com/anujvyas/IPL-First-Innings-Score-Prediction-Deployment
