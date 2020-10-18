@@ -14,7 +14,7 @@ Link: _https://github.com/lambertrego/score_predictor/_
 
 • A glimpse of the web app:
 
- ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
+ ![GIF](readme_resources/score_prediction.gif)
  
 
 
