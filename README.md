@@ -18,6 +18,6 @@ Link: _https://github.com/lambertrego/score_predictor/_
  
 
 
-![Heroku-Error](readme_resources/application-error-heroku.png)
+
 • Special thanks to Anuj Vyas
 https://github.com/anujvyas/IPL-First-Innings-Score-Prediction-Deployment
